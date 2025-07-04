@@ -1,0 +1,18 @@
+{
+  "tadej pogacar": {
+    "name": "Tadej Pogačar",
+    "face": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tadej_Poga%C4%8Dar_2023.jpg/330px-Tadej_Poga%C4%8Dar_2023.jpg",
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tadej_Poga%C4%8Dar_-_Tour_de_France_2020.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/Tadej_Poga%C4%8Dar_Li%C3%A8ge-Bastogne-Li%C3%A8ge_2021.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tadej_Poga%C4%8Dar_%282019%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tadej_Poga%C4%8Dar_%282021%29.jpg"
+    ],
+    "bio": "Slovenian cyclist and two-time Tour de France winner, known for his explosive climbing and aggressive style.",
+    "instagram": "https://instagram.com/tadejpogacar",
+    "years_active": {
+      "start": "2019-01-01",
+      "end": null
+    }
+  }
+}
