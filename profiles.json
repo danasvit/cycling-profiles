@@ -1,19 +1,18 @@
-{
-  "tadej pogacar": {
-    "name": "Tadej Pogačar",
-    "face": "https://upload.wikimedia.org/wikipedia/commons/7/71/Tadej_Poga%C4%8Dar_2023.jpg",
-    "pics": [
-      "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tadej_Poga%C4%8Dar_TDF_2021.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/57/Tadej_Poga%C4%8Dar_2020_TDF.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tadej_Poga%C4%8Dar_%282021%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tadej_Poga%C4%8Dar_-_Tour_de_France_2020.jpg"
-    ],
-    "bio": "Tadej Pogačar is a Slovenian professional cyclist who rides for UCI WorldTeam UAE Team Emirates. He won the Tour de France in 2020 and 2021, and is known for his all-around ability and attacking style.",
-    "instagram": "https://www.instagram.com/tadejpogacar/",
-    "years_active": {
-      "start": "2019-01-01",
-      "end": null
-    }
+"tadej pogacar": {
+  "name": "Tadej Pogačar",
+  "face": "https://danasvit.github.io/cycling-profiles/pogacar_face.jpg",
+  "pics": [
+    "https://danasvit.github.io/cycling-profiles/pogacar1.jpg",
+    "https://danasvit.github.io/cycling-profiles/pogacar2.jpg",
+    "https://danasvit.github.io/cycling-profiles/pogacar3.jpg",
+    "https://danasvit.github.io/cycling-profiles/pogacar4.jpg"
+  ],
+  "bio": "Tadej Pogačar is a Slovenian professional cyclist who rides for UCI WorldTeam UAE Team Emirates. He won the Tour de France in 2020 and 2021, and is known for his all-around ability and attacking style.",
+  "instagram": "https://www.instagram.com/tadejpogacar/",
+  "years_active": {
+    "start": "2019-01-01",
+    "end": null
   }
 }
+
 
